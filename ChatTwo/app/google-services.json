@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "844901003666",
+    "firebase_url": "https://realtimechats01.firebaseio.com",
+    "project_id": "realtimechats01",
+    "storage_bucket": "realtimechats01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844901003666:android:5429be7ee86b010a",
+        "android_client_info": {
+          "package_name": "syaiful.learn.chattwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844901003666-2oudjboqtn110hdogbj7lvfcs12ks0ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "syaiful.learn.chattwo",
+            "certificate_hash": "95d5f6fcf861d0f88f7dad5da0d45bda7e1942c1"
+          }
+        },
+        {
+          "client_id": "844901003666-aqqmthgsd54n35sj6rj8n2mdbld3d2nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJTdJOKF8K3bN6r1xrOn5vxgvJr8VsSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844901003666-aqqmthgsd54n35sj6rj8n2mdbld3d2nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
